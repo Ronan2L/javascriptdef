@@ -19,10 +19,12 @@ Voici les étapes à suivre pour le code:
 	- Dans un Second Terminal, dans le répertoire du projet, entrer "node addTask.js"
 	- Choisisais les actions que vous voulez mener:
 
-		- add (METHODE POST) pour ajouter une tâche
+		- add (METHODE POST) pour ajouter une tâche 
 		- update (METHODE PUT) pour maj une tâche
 		- delete (METHODE DELETE) pour supprimer une tâche
 		- get (METHODE GET) pour afficher les tâches
+		
+
 
 	- Une fois chaque action effectuée, addTask s'arrête et le CSV tasks.csv se met à jour.
 
