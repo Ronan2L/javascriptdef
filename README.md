@@ -1,4 +1,4 @@
-# javascriptdef
+# Task Manager
 INGÉ2 Projet
 
 Bonjour Monsieur, voici mon projet de Javascript du Semestre.
